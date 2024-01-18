@@ -12,4 +12,4 @@ This section to describe Deployment
 
 ## How to Contribute
 
-This section to how to contribute
+Fork this repo and issue a pull request 
