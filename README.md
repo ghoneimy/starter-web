@@ -14,3 +14,7 @@ This section to describe Deployment
 ## How to Contribute
 
 Fork this repo and issue a pull request 
+
+## Copyright
+
+2004 Git.Training 
