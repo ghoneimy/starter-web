@@ -18,3 +18,4 @@ Fork this repo and issue a pull request
 ## Copyright
 
 2004 Git.Training 
+Quick fix after stash 
